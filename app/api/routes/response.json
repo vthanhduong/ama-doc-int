@@ -1,0 +1,2020 @@
+{
+  "content": "II. Thửa đất, nhà ở và tài sản khác gắn liền với đất\n1. Thừa đất:\na. Thửa đất số: 1808 , tờ bản đồ số: 3,\nb. Diện tích: 494,0m2,\nc. Loại đất: Đất khu công nghiệp (SKK),\nd. Thời hạn sử dụng: Đến ngày 19/9/2057,\nđ. Hình thức sử dụng: Sử dụng riêng,\ne. Địa chỉ: Xã An Thạnh, Huyện Bên Lức, Tỉnh Long An,\ng. Nguồn gốc sử dụng: Thuê đất trả tiền một lần của chủ đầu tư hạ tầng khu công nghiệp, khu kinh tế, khu công nghệ cao,\n2. Nhà ở: - /-\n3. Công trình xây dựng khác: - /-\n4. Ghi chú: - /-\nIII. Sơ đồ thửa đất, nhà ở và tài sản khác gắn liền với đất\nĐường Dọc 1 (9,5m)\nLê (5m)\n5,95\nĐất cây xanh (10m)\n2\n3\n96,36\n1,03\n1\n5,00\n₹00,56\n5\n1888\n494\n1756\nX42,14\n1869\n152,83\nĐường Ngang 4 (9m)\n99.60\n1810 :unselected: Vị trí cấp GCN (thừa đất số 1808) :selected: Vị trí đã cấp GCN\nBảng liệt kê tọa độ\nSố hiệu đình thừa\nTọa độ\nX (m)\nY (m)\n1\n1182121,97\n577910,08\n2\n1182130,64\n578006,05\n3\n1182127,08\n578010,81\n4\n1182126,07\n578011,01\n5\n1182117,04\n577911,06",
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 52
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            9,
+            23,
+            493,
+            18,
+            493,
+            42,
+            9,
+            47
+          ]
+        }
+      ],
+      "role": "sectionHeading",
+      "content": "II. Thửa đất, nhà ở và tài sản khác gắn liền với đất"
+    },
+    {
+      "spans": [
+        {
+          "offset": 53,
+          "length": 12
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            32,
+            48,
+            150,
+            46,
+            151,
+            67,
+            32,
+            69
+          ]
+        }
+      ],
+      "role": "sectionHeading",
+      "content": "1. Thừa đất:"
+    },
+    {
+      "spans": [
+        {
+          "offset": 66,
+          "length": 39
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            54,
+            70,
+            455,
+            65,
+            455,
+            89,
+            54,
+            94
+          ]
+        }
+      ],
+      "content": "a. Thửa đất số: 1808 , tờ bản đồ số: 3,"
+    },
+    {
+      "spans": [
+        {
+          "offset": 106,
+          "length": 22
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            53,
+            96,
+            251,
+            93,
+            251,
+            115,
+            54,
+            117
+          ]
+        }
+      ],
+      "content": "b. Diện tích: 494,0m2,"
+    },
+    {
+      "spans": [
+        {
+          "offset": 129,
+          "length": 39
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            54,
+            119,
+            418,
+            116,
+            418,
+            138,
+            54,
+            141
+          ]
+        }
+      ],
+      "content": "c. Loại đất: Đất khu công nghiệp (SKK),"
+    },
+    {
+      "spans": [
+        {
+          "offset": 169,
+          "length": 40
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            54,
+            143,
+            432,
+            140,
+            432,
+            162,
+            54,
+            165
+          ]
+        }
+      ],
+      "content": "d. Thời hạn sử dụng: Đến ngày 19/9/2057,"
+    },
+    {
+      "spans": [
+        {
+          "offset": 210,
+          "length": 36
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            54,
+            167,
+            385,
+            165,
+            385,
+            187,
+            54,
+            188
+          ]
+        }
+      ],
+      "content": "đ. Hình thức sử dụng: Sử dụng riêng,"
+    },
+    {
+      "spans": [
+        {
+          "offset": 247,
+          "length": 53
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            54,
+            190,
+            566,
+            187,
+            566,
+            209,
+            54,
+            212
+          ]
+        }
+      ],
+      "content": "e. Địa chỉ: Xã An Thạnh, Huyện Bên Lức, Tỉnh Long An,"
+    },
+    {
+      "spans": [
+        {
+          "offset": 301,
+          "length": 119
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            54,
+            212,
+            839,
+            209,
+            839,
+            257,
+            54,
+            260
+          ]
+        }
+      ],
+      "content": "g. Nguồn gốc sử dụng: Thuê đất trả tiền một lần của chủ đầu tư hạ tầng khu công nghiệp, khu kinh tế, khu công nghệ cao,"
+    },
+    {
+      "spans": [
+        {
+          "offset": 421,
+          "length": 14
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            32,
+            262,
+            150,
+            261,
+            150,
+            281,
+            32,
+            282
+          ]
+        }
+      ],
+      "content": "2. Nhà ở: - /-"
+    },
+    {
+      "spans": [
+        {
+          "offset": 436,
+          "length": 33
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            33,
+            286,
+            333,
+            283,
+            333,
+            305,
+            33,
+            309
+          ]
+        }
+      ],
+      "content": "3. Công trình xây dựng khác: - /-"
+    },
+    {
+      "spans": [
+        {
+          "offset": 470,
+          "length": 16
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            33,
+            310,
+            167,
+            309,
+            167,
+            328,
+            33,
+            330
+          ]
+        }
+      ],
+      "content": "4. Ghi chú: - /-"
+    },
+    {
+      "spans": [
+        {
+          "offset": 487,
+          "length": 59
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            922,
+            18,
+            1455,
+            16,
+            1455,
+            39,
+            922,
+            41
+          ]
+        }
+      ],
+      "role": "title",
+      "content": "III. Sơ đồ thửa đất, nhà ở và tài sản khác gắn liền với đất"
+    },
+    {
+      "spans": [
+        {
+          "offset": 547,
+          "length": 18
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1208,
+            111,
+            1326,
+            101,
+            1327,
+            116,
+            1209,
+            125
+          ]
+        }
+      ],
+      "content": "Đường Dọc 1 (9,5m)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 566,
+          "length": 7
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1235,
+            128,
+            1284,
+            126,
+            1284,
+            139,
+            1236,
+            142
+          ]
+        }
+      ],
+      "content": "Lê (5m)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 574,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1438,
+            136,
+            1460,
+            134,
+            1461,
+            145,
+            1439,
+            146
+          ]
+        }
+      ],
+      "content": "5,95"
+    },
+    {
+      "spans": [
+        {
+          "offset": 579,
+          "length": 18
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1244,
+            146,
+            1357,
+            136,
+            1358,
+            150,
+            1245,
+            159
+          ]
+        }
+      ],
+      "content": "Đất cây xanh (10m)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 598,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1409,
+            142,
+            1417,
+            142,
+            1417,
+            152,
+            1409,
+            152
+          ]
+        }
+      ],
+      "content": "2"
+    },
+    {
+      "spans": [
+        {
+          "offset": 600,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1430,
+            154,
+            1438,
+            154,
+            1439,
+            163,
+            1431,
+            163
+          ]
+        }
+      ],
+      "content": "3"
+    },
+    {
+      "spans": [
+        {
+          "offset": 602,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1199,
+            159,
+            1228,
+            157,
+            1228,
+            169,
+            1200,
+            171
+          ]
+        }
+      ],
+      "content": "96,36"
+    },
+    {
+      "spans": [
+        {
+          "offset": 608,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1401,
+            157,
+            1425,
+            156,
+            1425,
+            166,
+            1402,
+            167
+          ]
+        }
+      ],
+      "content": "1,03"
+    },
+    {
+      "spans": [
+        {
+          "offset": 613,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1147,
+            166,
+            1153,
+            165,
+            1154,
+            174,
+            1148,
+            174
+          ]
+        }
+      ],
+      "content": "1"
+    },
+    {
+      "spans": [
+        {
+          "offset": 615,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1124,
+            178,
+            1147,
+            177,
+            1148,
+            188,
+            1124,
+            189
+          ]
+        }
+      ],
+      "content": "5,00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 620,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1287,
+            183,
+            1322,
+            179,
+            1323,
+            191,
+            1288,
+            195
+          ]
+        }
+      ],
+      "content": "₹00,56"
+    },
+    {
+      "spans": [
+        {
+          "offset": 627,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1149,
+            192,
+            1156,
+            192,
+            1157,
+            202,
+            1149,
+            202
+          ]
+        }
+      ],
+      "content": "5"
+    },
+    {
+      "spans": [
+        {
+          "offset": 629,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1248,
+            196,
+            1272,
+            195,
+            1273,
+            207,
+            1249,
+            209
+          ]
+        }
+      ],
+      "content": "1888"
+    },
+    {
+      "spans": [
+        {
+          "offset": 634,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1249,
+            213,
+            1267,
+            212,
+            1268,
+            223,
+            1249,
+            224
+          ]
+        }
+      ],
+      "content": "494"
+    },
+    {
+      "spans": [
+        {
+          "offset": 638,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1140,
+            350,
+            1166,
+            349,
+            1166,
+            360,
+            1141,
+            360
+          ]
+        }
+      ],
+      "content": "1756"
+    },
+    {
+      "spans": [
+        {
+          "offset": 643,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1424,
+            351,
+            1458,
+            349,
+            1459,
+            361,
+            1424,
+            363
+          ]
+        }
+      ],
+      "content": "X42,14"
+    },
+    {
+      "spans": [
+        {
+          "offset": 650,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1326,
+            368,
+            1351,
+            365,
+            1352,
+            376,
+            1327,
+            378
+          ]
+        }
+      ],
+      "content": "1869"
+    },
+    {
+      "spans": [
+        {
+          "offset": 655,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1155,
+            389,
+            1188,
+            388,
+            1188,
+            399,
+            1155,
+            399
+          ]
+        }
+      ],
+      "content": "152,83"
+    },
+    {
+      "spans": [
+        {
+          "offset": 662,
+          "length": 18
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1469,
+            297,
+            1484,
+            294,
+            1509,
+            413,
+            1494,
+            416
+          ]
+        }
+      ],
+      "content": "Đường Ngang 4 (9m)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 681,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1340,
+            550,
+            1370,
+            549,
+            1370,
+            559,
+            1340,
+            560
+          ]
+        }
+      ],
+      "content": "99.60"
+    },
+    {
+      "spans": [
+        {
+          "offset": 687,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1343,
+            593,
+            1368,
+            592,
+            1369,
+            603,
+            1343,
+            603
+          ]
+        }
+      ],
+      "content": "1810"
+    },
+    {
+      "spans": [
+        {
+          "offset": 692,
+          "length": 46
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1102,
+            637,
+            1349,
+            637,
+            1349,
+            658,
+            1102,
+            658
+          ]
+        }
+      ],
+      "content": ":unselected: Vị trí cấp GCN (thừa đất số 1808)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 739,
+          "length": 28
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1101,
+            672,
+            1261,
+            673,
+            1261,
+            694,
+            1101,
+            693
+          ]
+        }
+      ],
+      "content": ":selected: Vị trí đã cấp GCN"
+    },
+    {
+      "spans": [
+        {
+          "offset": 768,
+          "length": 19
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1451,
+            575,
+            1557,
+            574,
+            1557,
+            588,
+            1451,
+            588
+          ]
+        }
+      ],
+      "content": "Bảng liệt kê tọa độ"
+    },
+    {
+      "spans": [
+        {
+          "offset": 788,
+          "length": 17
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1389,
+            595,
+            1471,
+            595,
+            1471,
+            635,
+            1389,
+            635
+          ]
+        }
+      ],
+      "content": "Số hiệu đình thừa"
+    },
+    {
+      "spans": [
+        {
+          "offset": 806,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1471,
+            595,
+            1657,
+            595,
+            1657,
+            615,
+            1471,
+            616
+          ]
+        }
+      ],
+      "content": "Tọa độ"
+    },
+    {
+      "spans": [
+        {
+          "offset": 813,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1471,
+            616,
+            1562,
+            615,
+            1562,
+            634,
+            1471,
+            635
+          ]
+        }
+      ],
+      "content": "X (m)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 819,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1562,
+            615,
+            1657,
+            615,
+            1657,
+            634,
+            1562,
+            634
+          ]
+        }
+      ],
+      "content": "Y (m)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 825,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1389,
+            635,
+            1471,
+            635,
+            1471,
+            657,
+            1389,
+            657
+          ]
+        }
+      ],
+      "content": "1"
+    },
+    {
+      "spans": [
+        {
+          "offset": 827,
+          "length": 10
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1471,
+            635,
+            1562,
+            634,
+            1562,
+            656,
+            1471,
+            657
+          ]
+        }
+      ],
+      "content": "1182121,97"
+    },
+    {
+      "spans": [
+        {
+          "offset": 838,
+          "length": 9
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1562,
+            634,
+            1657,
+            634,
+            1657,
+            656,
+            1562,
+            656
+          ]
+        }
+      ],
+      "content": "577910,08"
+    },
+    {
+      "spans": [
+        {
+          "offset": 848,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1389,
+            657,
+            1471,
+            657,
+            1471,
+            680,
+            1389,
+            680
+          ]
+        }
+      ],
+      "content": "2"
+    },
+    {
+      "spans": [
+        {
+          "offset": 850,
+          "length": 10
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1471,
+            657,
+            1562,
+            656,
+            1562,
+            679,
+            1471,
+            680
+          ]
+        }
+      ],
+      "content": "1182130,64"
+    },
+    {
+      "spans": [
+        {
+          "offset": 861,
+          "length": 9
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1562,
+            656,
+            1657,
+            656,
+            1657,
+            679,
+            1562,
+            679
+          ]
+        }
+      ],
+      "content": "578006,05"
+    },
+    {
+      "spans": [
+        {
+          "offset": 871,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1389,
+            680,
+            1471,
+            680,
+            1471,
+            703,
+            1389,
+            703
+          ]
+        }
+      ],
+      "content": "3"
+    },
+    {
+      "spans": [
+        {
+          "offset": 873,
+          "length": 10
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1471,
+            680,
+            1562,
+            679,
+            1562,
+            702,
+            1471,
+            703
+          ]
+        }
+      ],
+      "content": "1182127,08"
+    },
+    {
+      "spans": [
+        {
+          "offset": 884,
+          "length": 9
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1562,
+            679,
+            1657,
+            679,
+            1657,
+            702,
+            1562,
+            702
+          ]
+        }
+      ],
+      "content": "578010,81"
+    },
+    {
+      "spans": [
+        {
+          "offset": 894,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1389,
+            703,
+            1471,
+            703,
+            1471,
+            725,
+            1389,
+            726
+          ]
+        }
+      ],
+      "content": "4"
+    },
+    {
+      "spans": [
+        {
+          "offset": 896,
+          "length": 10
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1471,
+            703,
+            1562,
+            702,
+            1562,
+            725,
+            1471,
+            725
+          ]
+        }
+      ],
+      "content": "1182126,07"
+    },
+    {
+      "spans": [
+        {
+          "offset": 907,
+          "length": 9
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1562,
+            702,
+            1657,
+            702,
+            1657,
+            724,
+            1562,
+            725
+          ]
+        }
+      ],
+      "content": "578011,01"
+    },
+    {
+      "spans": [
+        {
+          "offset": 917,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1389,
+            726,
+            1471,
+            725,
+            1471,
+            748,
+            1389,
+            749
+          ]
+        }
+      ],
+      "content": "5"
+    },
+    {
+      "spans": [
+        {
+          "offset": 919,
+          "length": 10
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1471,
+            725,
+            1562,
+            725,
+            1562,
+            748,
+            1471,
+            748
+          ]
+        }
+      ],
+      "content": "1182117,04"
+    },
+    {
+      "spans": [
+        {
+          "offset": 930,
+          "length": 9
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1562,
+            725,
+            1657,
+            724,
+            1657,
+            747,
+            1562,
+            748
+          ]
+        }
+      ],
+      "content": "577911,06"
+    }
+  ],
+  "tables": [
+    {
+      "rowCount": 7,
+      "columnCount": 3,
+      "cells": [
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 0,
+          "rowSpan": 2,
+          "content": "Số hiệu đình thừa",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1389,
+                595,
+                1471,
+                595,
+                1471,
+                635,
+                1389,
+                635
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 788,
+              "length": 17
+            }
+          ],
+          "elements": [
+            "/paragraphs/37"
+          ]
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 1,
+          "columnSpan": 2,
+          "content": "Tọa độ",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1471,
+                595,
+                1657,
+                595,
+                1657,
+                615,
+                1471,
+                616
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 806,
+              "length": 6
+            }
+          ],
+          "elements": [
+            "/paragraphs/38"
+          ]
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 1,
+          "columnIndex": 1,
+          "content": "X (m)",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1471,
+                616,
+                1562,
+                615,
+                1562,
+                634,
+                1471,
+                635
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 813,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/39"
+          ]
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 1,
+          "columnIndex": 2,
+          "content": "Y (m)",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1562,
+                615,
+                1657,
+                615,
+                1657,
+                634,
+                1562,
+                634
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 819,
+              "length": 5
+            }
+          ],
+          "elements": [
+            "/paragraphs/40"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 0,
+          "content": "1",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1389,
+                635,
+                1471,
+                635,
+                1471,
+                657,
+                1389,
+                657
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 825,
+              "length": 1
+            }
+          ],
+          "elements": [
+            "/paragraphs/41"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 1,
+          "content": "1182121,97",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1471,
+                635,
+                1562,
+                634,
+                1562,
+                656,
+                1471,
+                657
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 827,
+              "length": 10
+            }
+          ],
+          "elements": [
+            "/paragraphs/42"
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 2,
+          "content": "577910,08",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1562,
+                634,
+                1657,
+                634,
+                1657,
+                656,
+                1562,
+                656
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 838,
+              "length": 9
+            }
+          ],
+          "elements": [
+            "/paragraphs/43"
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 0,
+          "content": "2",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1389,
+                657,
+                1471,
+                657,
+                1471,
+                680,
+                1389,
+                680
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 848,
+              "length": 1
+            }
+          ],
+          "elements": [
+            "/paragraphs/44"
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 1,
+          "content": "1182130,64",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1471,
+                657,
+                1562,
+                656,
+                1562,
+                679,
+                1471,
+                680
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 850,
+              "length": 10
+            }
+          ],
+          "elements": [
+            "/paragraphs/45"
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 2,
+          "content": "578006,05",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1562,
+                656,
+                1657,
+                656,
+                1657,
+                679,
+                1562,
+                679
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 861,
+              "length": 9
+            }
+          ],
+          "elements": [
+            "/paragraphs/46"
+          ]
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 0,
+          "content": "3",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1389,
+                680,
+                1471,
+                680,
+                1471,
+                703,
+                1389,
+                703
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 871,
+              "length": 1
+            }
+          ],
+          "elements": [
+            "/paragraphs/47"
+          ]
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 1,
+          "content": "1182127,08",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1471,
+                680,
+                1562,
+                679,
+                1562,
+                702,
+                1471,
+                703
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 873,
+              "length": 10
+            }
+          ],
+          "elements": [
+            "/paragraphs/48"
+          ]
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 2,
+          "content": "578010,81",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1562,
+                679,
+                1657,
+                679,
+                1657,
+                702,
+                1562,
+                702
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 884,
+              "length": 9
+            }
+          ],
+          "elements": [
+            "/paragraphs/49"
+          ]
+        },
+        {
+          "rowIndex": 5,
+          "columnIndex": 0,
+          "content": "4",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1389,
+                703,
+                1471,
+                703,
+                1471,
+                725,
+                1389,
+                726
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 894,
+              "length": 1
+            }
+          ],
+          "elements": [
+            "/paragraphs/50"
+          ]
+        },
+        {
+          "rowIndex": 5,
+          "columnIndex": 1,
+          "content": "1182126,07",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1471,
+                703,
+                1562,
+                702,
+                1562,
+                725,
+                1471,
+                725
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 896,
+              "length": 10
+            }
+          ],
+          "elements": [
+            "/paragraphs/51"
+          ]
+        },
+        {
+          "rowIndex": 5,
+          "columnIndex": 2,
+          "content": "578011,01",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1562,
+                702,
+                1657,
+                702,
+                1657,
+                724,
+                1562,
+                725
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 907,
+              "length": 9
+            }
+          ],
+          "elements": [
+            "/paragraphs/52"
+          ]
+        },
+        {
+          "rowIndex": 6,
+          "columnIndex": 0,
+          "content": "5",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1389,
+                726,
+                1471,
+                725,
+                1471,
+                748,
+                1389,
+                749
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 917,
+              "length": 1
+            }
+          ],
+          "elements": [
+            "/paragraphs/53"
+          ]
+        },
+        {
+          "rowIndex": 6,
+          "columnIndex": 1,
+          "content": "1182117,04",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1471,
+                725,
+                1562,
+                725,
+                1562,
+                748,
+                1471,
+                748
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 919,
+              "length": 10
+            }
+          ],
+          "elements": [
+            "/paragraphs/54"
+          ]
+        },
+        {
+          "rowIndex": 6,
+          "columnIndex": 2,
+          "content": "577911,06",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1562,
+                725,
+                1657,
+                724,
+                1657,
+                747,
+                1562,
+                748
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 930,
+              "length": 9
+            }
+          ],
+          "elements": [
+            "/paragraphs/55"
+          ]
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1390,
+            595,
+            1659,
+            595,
+            1659,
+            748,
+            1390,
+            749
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 788,
+          "length": 151
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 939
+        }
+      ],
+      "elements": [
+        "/sections/1",
+        "/sections/3"
+      ]
+    },
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 486
+        }
+      ],
+      "elements": [
+        "/paragraphs/0",
+        "/sections/2"
+      ]
+    },
+    {
+      "spans": [
+        {
+          "offset": 53,
+          "length": 433
+        }
+      ],
+      "elements": [
+        "/paragraphs/1",
+        "/paragraphs/2",
+        "/paragraphs/3",
+        "/paragraphs/4",
+        "/paragraphs/5",
+        "/paragraphs/6",
+        "/paragraphs/7",
+        "/paragraphs/8",
+        "/paragraphs/9",
+        "/paragraphs/10",
+        "/paragraphs/11"
+      ]
+    },
+    {
+      "spans": [
+        {
+          "offset": 487,
+          "length": 452
+        }
+      ],
+      "elements": [
+        "/paragraphs/12",
+        "/paragraphs/13",
+        "/paragraphs/14",
+        "/paragraphs/15",
+        "/paragraphs/16",
+        "/paragraphs/17",
+        "/paragraphs/18",
+        "/paragraphs/19",
+        "/paragraphs/20",
+        "/paragraphs/21",
+        "/paragraphs/22",
+        "/paragraphs/23",
+        "/paragraphs/24",
+        "/paragraphs/25",
+        "/paragraphs/26",
+        "/paragraphs/27",
+        "/paragraphs/28",
+        "/paragraphs/29",
+        "/paragraphs/30",
+        "/paragraphs/31",
+        "/paragraphs/32",
+        "/paragraphs/33",
+        "/figures/0",
+        "/paragraphs/36",
+        "/tables/0"
+      ]
+    }
+  ]
+}
